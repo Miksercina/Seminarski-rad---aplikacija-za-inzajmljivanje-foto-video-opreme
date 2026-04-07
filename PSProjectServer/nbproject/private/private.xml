@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/niti/ObradaKlijentskihZahteva.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/opreacije/login/LoginSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/repository/db/DbConnectionFactory.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/ugovoronajmu/VratiUgovoreONajmuSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/zakupac/IzmeniZakupcaSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/server/sesija/ServerSesija.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/brend/UbaciBrendSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/repository/db/DbRepository.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/ugovoronajmu/IzmeniUgovorONajmuSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/oprema/DodajOpremuSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/ugovoronajmu/VratiUgovoreONajmuUlogovanogSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/repository/db/impl/DbRepositoryGeneric.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/controller/Controller.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/zakupac/ObrisiZakupcaSO.java</file>
+            <file>file:/C:/xampp/htdocs/softveri/2019zadatak1/PSProjectServer/src/operacije/stavke/VratiStavkeSO.java</file>
+        </group>
+    </open-files>
+</project-private>
